@@ -38,5 +38,8 @@ LB Score: 92.63609
 LB Rank: 31/615
 Link to the Leaderboard can be found [here](https://www.hackerearth.com/challenges/competitive/amexpert-code-lab/leaderboard/credit-card-default-risk-5-95cbc85f/).
 
+### Approach
+The detailed approach and insights found during the Exploratory Data Analysis can be found in the Approach_Document word file in the repository. 
+
 
 
