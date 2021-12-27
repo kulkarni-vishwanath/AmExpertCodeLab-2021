@@ -34,8 +34,10 @@ You are given the relevant information about the customers of a company. You are
 The evaluation metrics for this competition is 100*(metrics.f1_score(actual,predicted,average="macro"))
 
 ### Leaderboad
-LB Score: 92.63609
-LB Rank: 31/615
+**LB Score:** 92.63609
+
+**LB Rank:** 31/615
+
 Link to the Leaderboard can be found [here](https://www.hackerearth.com/challenges/competitive/amexpert-code-lab/leaderboard/credit-card-default-risk-5-95cbc85f/).
 
 ### Approach
